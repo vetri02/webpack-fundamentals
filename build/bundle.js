@@ -86,6 +86,17 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./src/Logo@4x-100.jpg":
+/*!*****************************!*\
+  !*** ./src/Logo@4x-100.jpg ***!
+  \*****************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"0aa93b16501a78b189a0fa39c386001f.jpg\";\n\n//# sourceURL=webpack:///./src/Logo@4x-100.jpg?");
+
+/***/ }),
+
 /***/ "./src/bar.js":
 /*!********************!*\
   !*** ./src/bar.js ***!
@@ -118,7 +129,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _foo_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./foo.js */ \"./src/foo.js\");\n/* harmony import */ var _bar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bar */ \"./src/bar.js\");\n\n\n\nconsole.log(`Hello,${_foo_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"]} ${_bar__WEBPACK_IMPORTED_MODULE_1__[\"default\"]}`);\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _foo_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./foo.js */ \"./src/foo.js\");\n/* harmony import */ var _bar__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bar */ \"./src/bar.js\");\n/* harmony import */ var _Logo_4x_100_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Logo@4x-100.jpg */ \"./src/Logo@4x-100.jpg\");\n/* harmony import */ var _Logo_4x_100_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Logo_4x_100_jpg__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\n\nconsole.log(`Hello,${_foo_js__WEBPACK_IMPORTED_MODULE_0__[\"default\"]} ${_bar__WEBPACK_IMPORTED_MODULE_1__[\"default\"]}`);\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
